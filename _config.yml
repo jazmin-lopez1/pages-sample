@@ -21,7 +21,7 @@
 title: Jazmin's website
 email: jazmin.lopez@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-Website on my life
+  Website on my life
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
 url: "https://jazmin-lopez1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
